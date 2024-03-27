@@ -12,15 +12,17 @@ This is a simple web scraper built with Python and Selenium to scrape game price
 Headless browser operation using Selenium and ChromeDriver
 
 # Usage
-1. Install dependencies
+1. Install dependencies 
+```python
 pip install selenium
-
-2. Run script
+```
+3. Run script
+```python
 python webScraper.py
+```
+5. Input price range and optional game name when prompted
 
-3. Input price range and optional game name when prompted
-
-4. Results will be printed to the console
+6. Results will be printed to the console
 
 # Configuration
 - Adjust deep parameter to control pages scraped
