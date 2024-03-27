@@ -1,6 +1,8 @@
 # GameSearcher
 
 This is a simple web scraper built with Python and Selenium to scrape game prices from AllKeyShop.
+
+
 ![GameSearcher](https://github.com/Bardolomeo/GameSearcher/assets/137307648/24091b8e-e556-436c-858d-17a023e5dac6)
 
 # Features
